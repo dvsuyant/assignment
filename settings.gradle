@@ -1,0 +1,4 @@
+rootProject.name = 'Assignment'
+include 'order-service'
+include 'order-item-service'
+
